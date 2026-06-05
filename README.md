@@ -121,11 +121,11 @@ quit
 ## Project Structure
 
 src
-├─ board
-├─ command
-├─ generator
-├─ game
-├─ hint
-├─ parser
-├─ ui
-└─ validation
+- board
+- command
+- generator
+- game
+- hint
+- parser
+- ui
+- validation
